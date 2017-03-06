@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-package1",
+  "version": "1.0.0",
+  "description": "NPM 테스트용 패키지 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundy/npm-test-package1.git"
+  },
+  "author": "foundy <foundy@foundy.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundy/npm-test-package1/issues"
+  },
+  "homepage": "https://github.com/foundy/npm-test-package1#readme"
+}
