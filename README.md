@@ -1,2 +1,2 @@
-# npm-test-package1
-NPM 테스트용 패키지 1
+# workflow-test-package1
+Test package1 (for [workflow-test](https://github.com/foundy/workflow-test))
