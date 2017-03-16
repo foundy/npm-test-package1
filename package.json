@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/foundy/workflow-test-package1/issues"
   },
-  "homepage": "https://github.com/foundy/workflow-test-package1#readme"
+  "homepage": "https://github.com/foundy/workflow-test-package1#readme",
+  "dependencies": {
+    "workflow-test-common": "git+https://github.com/foundy/workflow-test-common.git"
+  }
 }
